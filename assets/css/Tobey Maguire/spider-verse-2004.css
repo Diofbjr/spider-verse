@@ -180,6 +180,9 @@ a {
 .synopsis-section {
     padding: 5rem 2rem;
     background: var(--card-bg);
+    position: relative;
+    z-index: 5;
+    margin-top: 35rem;
 }
 
 .section-title {

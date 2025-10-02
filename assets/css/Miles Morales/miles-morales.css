@@ -219,6 +219,7 @@ a {
   background: var(--card-bg);
   position: relative;
   overflow: hidden;
+  margin-top: 35rem;
 }
 
 .bio-section::before {

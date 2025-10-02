@@ -178,8 +178,11 @@ a {
 }
 
 .synopsis-section {
+    margin-top: 35rem;
     padding: 5rem 2rem;
     background: var(--card-bg);
+    position: relative;
+    z-index: 5;
 }
 
 .section-title {

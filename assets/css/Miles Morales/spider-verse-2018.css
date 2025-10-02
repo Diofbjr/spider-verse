@@ -218,12 +218,12 @@ a {
   100% { transform: translateY(0px); }
 }
 
-/* Seção de Sinopse */
 .synopsis-section {
   padding: 5rem 2rem;
   background: var(--card-bg);
   position: relative;
   overflow: hidden;
+  margin-top: 55rem;
 }
 
 .synopsis-section::before {
