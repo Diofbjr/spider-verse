@@ -46,33 +46,6 @@ Google Fonts - Tipografia customizada (Montserrat, Roboto Condensed)
 
 SVG - Ilustrações vetoriais de alta qualidade
 
-
-SPIDERMAN/
-│
-├── 📄 index.html                    # Página inicial
-├── 📁 assets/
-│   ├── 📁 css/                     # Estilos organizados por personagem
-│   │   ├── 📁 Miles Morales/
-│   │   ├── 📁 Andrew Garfield/
-│   │   ├── 📁 Tobey Maguire/
-│   │   ├── 📁 Tom Holland/
-│   │   └── home-page.css
-│   ├── 📁 images/                  # Imagens organizadas por personagem
-│   │   ├── 📁 Miles-Morales/
-│   │   ├── 📁 Andrew-Garfield/
-│   │   ├── 📁 Tobey-Maguire/
-│   │   └── 📁 Tom-Holland/
-│   └── 📁 javascript/
-│       ├── spiderverse.js          # Funcionalidades principais
-│       └── trailers.js             # Gerenciamento de trailers
-│
-└── 📁 pages/                       # Páginas individuais
-    ├── 📁 miles-morales/
-    ├── 📁 andrew-garfield/
-    ├── 📁 tobey-maguire/
-    └── 📁 tom-holland/
-
-
 🎨 Design e Experiência
 Paleta de Cores
 Vermelho do Homem-Aranha - #e62429
@@ -184,7 +157,6 @@ Em Relação ao Original
 
 ✅ Imagens otimizadas e SVG
 
-
 👨‍💻 Desenvolvimento
 Este projeto foi desenvolvido como uma reimaginação completa do projeto original da DIO, focando em:
 
@@ -200,3 +172,4 @@ Acessibilidade e boas práticas
 Este projeto é para fins educacionais e de portfólio. Todas as imagens e conteúdos relacionados ao Homem-Aranha são propriedade da Marvel Entertainment e Sony Pictures.
 
 Desenvolvido com ❤️ para os fãs do Homem-Aranha 🕷️
+
